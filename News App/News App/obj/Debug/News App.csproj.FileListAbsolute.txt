@@ -1,0 +1,16 @@
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\bin\Debug\News App.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\bin\Debug\News App.exe
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\bin\Debug\News App.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\bin\Debug\HtmlAgilityPack.dll
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\bin\Debug\HtmlAgilityPack.xml
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\obj\Debug\News App.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\obj\Debug\News App.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\obj\Debug\News App.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\obj\Debug\News App.exe
+C:\Users\yusuf\OneDrive\Masaüstü\News App\News App\obj\Debug\News App.pdb
